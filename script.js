@@ -13,5 +13,5 @@ timer.textContent=`${hour}:${minutes}`
 const ampm=now.getHours()>=12?"PM":"AM";
 meridiems.textContent=`${ampm}`
 }
-// showtime()
+showtime()
 setInterval(showtime,1000)

@@ -27,6 +27,7 @@
     background-color: lightslategray;
     overflow: hidden;
     padding: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.844);
 }
 .inner{
     width: 100%;
@@ -39,7 +40,7 @@
     align-items: center;
     font-size: 100px;
     font-family: "Digitalfont";
-    color: #ff3535d4;
+    color: rgba(0, 0, 0, 0.844);
 }
 .meridiems{
     font-size: 30px;
